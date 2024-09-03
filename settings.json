@@ -1,0 +1,13 @@
+{
+    "editor.fontsize": 20,
+    "editor.lineHeight": 1.6,
+    "editor.tabSize": 2,
+    "editor.minimap.enable": false,
+    "editor.wordWrap": "on",
+    "editor.glyphMargin": false,
+    "files.autoSave": "afterDelay",
+    // zen mode
+    "zenMode.fullScrean": false,
+    "zenMode.centerLayout": false,
+    "zenMode.showTabs": "single"
+}
