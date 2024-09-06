@@ -6,14 +6,37 @@
 body {
     background-size: cover;
     background-color: #F5F4F0;
-    font: "Open Sans, serif";
+    font-family: "JetBrains Mono", monospace;
 }
 
 main {
     padding: 80px;
     align-items: center;
-    font-family: serif;
+    font-family: "JetBrains Mono", monospace;
 
+}
+
+#nex-trip {
+    color: red;
+}
+
+#destinations {
+    color: red;
+}
+
+#couples {
+    font-weight: bolder;
+    color: red;
+}
+
+#families {
+    font-weight: bolder;
+    color: red;
+}
+
+#budget {
+    font-weight: bolder;
+    color: red;
 }
 
 img {
@@ -24,4 +47,5 @@ img {
 footer {
     text-align: center;
     padding-bottom: 48px;
+    font-weight: bolder;
 }
